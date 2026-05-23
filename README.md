@@ -13,7 +13,7 @@
 ## 📸 系统运行拓扑与全链路运行截图
 
 
-![Dify 全链路绿灯试运行成功拓扑图](workflow_screenshot.png)
+![Dify 全链路绿灯试运行成功拓扑图](./workflow_screenshot.png)
 
 ---
 
